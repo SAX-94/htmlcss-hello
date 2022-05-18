@@ -1,7 +1,7 @@
 Ciao Ragazzi,
 esercizio di oggi: **Hello HTML**
 
-### nome repo: htmlcss-hello
+### Nome repo: htmlcss-hello
 
 #### Esercizio:
 
